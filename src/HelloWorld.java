@@ -1,10 +1,11 @@
 import java.util.ArrayList;
 import java.util.Iterator;
-
 import com.senac.SimpleJava.Console;
 
 public class HelloWorld {
 	public void run() {
+		//MARCOS HONATEL NO GITHUB
+		
 		//int aux = VerificaQuantidadeDeLetras("macaco");
 		
 		ArrayList<String> listaResultados = CountCharacters("banana");
