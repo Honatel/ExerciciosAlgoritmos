@@ -72,6 +72,5 @@ public class HelloWorld {
 		}
 		
 		return response;
-	}
-	
+	}	
 }
